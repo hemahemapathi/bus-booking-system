@@ -10,6 +10,8 @@ A full-stack MERN application inspired by GoBus — India's leading bus ticket b
 
 📁 **[GitHub Repository](https://github.com/hemahemapathi/bus-booking-system)**
 
+⚙️ **[API Server](https://bus-booking-system-c4qp.onrender.com)**
+
 ---
 
 ## 📸 Screenshots
