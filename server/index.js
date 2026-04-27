@@ -30,7 +30,7 @@ app.get('/', (req, res) => res.send(`
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>redbus API</title>
+  <title>Gobus API</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f3f4f6; color: #1f2937; }
@@ -65,7 +65,7 @@ app.get('/', (req, res) => res.send(`
 </head>
 <body>
   <div class="header">
-    <h1>🚌 redbus API</h1>
+    <h1>🚌 GoBus API</h1>
     <p>Online Bus Ticket Booking Platform — REST API</p>
     <span class="badge">v1.0.0</span>
   </div>
@@ -144,7 +144,7 @@ app.get('/', (req, res) => res.send(`
       <div class="endpoint"><span class="method delete">DELETE</span><span class="path">/api/admin/users/:id</span><span class="desc">Delete user</span></div>
     </div>
 
-    <p style="text-align:center;color:#9ca3af;font-size:0.8rem;padding:16px 0 32px">🚌 redbus API · Built with Node.js + Express + MongoDB</p>
+    <p style="text-align:center;color:#9ca3af;font-size:0.8rem;padding:16px 0 32px">🚌 GoBus API · Built with Node.js + Express + MongoDB</p>
   </div>
 </body>
 </html>
